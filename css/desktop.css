@@ -1,0 +1,15 @@
+@media (min-width: 1024px) {
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    h1 {
+        font-size: 3.4rem;
+    }
+    .desc {
+        font-size: 1.8rem;
+    }
+    .hor {
+        font-size: 2rem;
+    }
+}

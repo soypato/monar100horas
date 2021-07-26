@@ -1,0 +1,24 @@
+                @media (min-width: 768px) {
+                    h1 {
+                        text-align: center;
+                        font-size: 4rem;
+                    }
+                    .grid {
+                        display: grid;
+                        grid-template-columns: 1fr 4.2fr 1fr;
+                    }
+                    #clock {
+                        font-size: 4rem;
+                    }
+                    .monarLogo {
+                        max-width: 30rem;
+                        display: block;
+                        margin: auto;
+                    }
+                    .desc {
+                        font-size: 1.8rem;
+                    }
+                    .hor {
+                        font-size: 1.8rem;
+                    }
+                }
