@@ -43,6 +43,20 @@ main {
     grid-area: 2/2;
 }
 
+.enVivo {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    width: 15rem;
+    height: 4rem;
+    background-color: #fbdc7c;
+    border-radius: 2rem;
+}
+
 h1 {
     text-align: center;
     font-size: 3rem;
@@ -70,7 +84,8 @@ h2 {
     text-align: center;
 }
 
-#clock {
+#timer,
+#crono {
     background-color: var(--accent-color);
     color: var(--first-color);
     text-align: center;
@@ -79,6 +94,13 @@ h2 {
     margin: 1rem 0;
     padding: 1rem .3rem;
     font-weight: 800;
+}
+
+#crono {
+    font-size: 3rem;
+}
+
+#timer {
     font-size: 3rem;
 }
 

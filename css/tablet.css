@@ -7,8 +7,11 @@
                         display: grid;
                         grid-template-columns: 1fr 4.2fr 1fr;
                     }
-                    #clock {
-                        font-size: 4rem;
+                    #crono {
+                        font-size: 3rem;
+                    }
+                    #timer {
+                        font-size: 3rem;
                     }
                     .monarLogo {
                         max-width: 30rem;
@@ -20,5 +23,8 @@
                     }
                     .hor {
                         font-size: 1.8rem;
+                    }
+                    #timer {
+                        font-size: 3rem;
                     }
                 }
