@@ -72,6 +72,10 @@ h2 {
     margin: 2.3rem 0 2rem 0;
 }
 
+h3 {
+    padding: 1rem;
+}
+
 .desc {
     border: .1rem solid var(--accent-color);
     padding: 1rem;
