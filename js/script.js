@@ -67,4 +67,4 @@ const countdown = (deadline, elem, finalMessage) => {
     }, 1000)
 };
 
-countdown('Aug 1 2021 12:00:00 GMT-0300', 'timer', '¡El 100 horas ha concluído!');
+countdown('Aug 1 2021 14:00:00 GMT-0300', 'timer', '¡El 100 horas ha concluído!');
